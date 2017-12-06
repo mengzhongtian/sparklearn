@@ -1,3 +1,5 @@
+package sql
+
 import org.apache.spark.sql.{SaveMode, SparkSession}
 
 object RDDRelation {
